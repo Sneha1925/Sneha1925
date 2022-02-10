@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sneha1925
-- 👀 I’m interested in frontend development.
+- 👀 I’m interested in frontend & backend development.
 - 🌱 I’m currently learning databases.
 - 💞️ I’m looking to collaborate on website development.
 - 📫 How to reach me : https://www.linkedin.com/in/sneha-ojha1212/
